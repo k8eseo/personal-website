@@ -1,0 +1,36 @@
+@import "../../vars.css";
+
+.navbar {
+    font-size: 25px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100px;
+    position: sticky;
+    z-index: 2;
+    animation: transitionIn 0.7s ease-in-out both;
+    animation-delay: 0.9s;
+}
+
+@keyframes transitionIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-text-color);
+    padding: 0px 40px 0px 40px;
+}
+
+a:visited { text-decoration: none; color: var(--primary-text-color); }
+a:hover { text-decoration: none; color: var(--primary-text-color) }
+a:focus { text-decoration: none; color: var(--primary-text-color); }

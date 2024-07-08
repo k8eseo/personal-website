@@ -1,0 +1,47 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.bubble {
+    background-color: var(--card-color);
+    box-shadow: 4px 4px 4px var(--shadow-color);
+    height: 10vw;
+    padding: 5px;
+    width: 10vw;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bubble:hover {
+    background-color: var(--card-hover-color);
+    scale: 1.05;
+    transition: 0.3s;
+}
+
+.logo {
+    max-width: 60%;
+    max-height: 60%;
+}
+
+h2 {
+    font-size: 150%;
+    color: var(--secondary-text-color);
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        align-items: center;
+    }
+
+    h2 {
+        display: none;
+    }
+}

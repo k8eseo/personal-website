@@ -1,0 +1,14 @@
+:root {
+    /* Colors */
+    --bg-color: #060a19;
+    --primary-text-color: #c6d3ff;
+    --secondary-text-color: #e8e8e8;
+    --shadow-color: #020308;
+    --blur-color: #13204f;
+    --card-color: #141b35c9;
+    --card-hover-color: #10162bc9;
+    --tech-bg-color: #2b365ac9;
+
+    /* Fonts */
+    --font: "Rubik";
+}

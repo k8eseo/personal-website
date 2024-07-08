@@ -1,0 +1,21 @@
+@import "../../vars.css";
+
+.container {
+    margin-top: 250px;
+    color: var(--primary-text-color);
+    z-index: 1;
+}
+
+.experience {
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 1.5em;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1 1 300px;
+    gap: 25px;
+}

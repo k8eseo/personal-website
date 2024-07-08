@@ -1,0 +1,24 @@
+@import "./vars.css";
+
+body {
+    background-color: var(--bg-color);
+    font-family: var(--font);
+    overflow-x: hidden;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+#experience {
+    scroll-margin-top: 6vw;
+}
+
+#skills {
+    scroll-margin-top: 6.5vw;
+}
+
+#projects {
+    scroll-margin-top: 3vw;
+}
