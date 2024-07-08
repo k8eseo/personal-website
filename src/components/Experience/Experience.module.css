@@ -6,16 +6,8 @@
     z-index: 1;
 }
 
-.experience {
+.title {
     font-size: 3rem;
     text-align: center;
     padding-bottom: 1.5em;
-}
-
-.cardContainer {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex: 1 1 300px;
-    gap: 25px;
 }
