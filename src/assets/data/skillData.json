@@ -1,0 +1,54 @@
+{
+    "languages": [
+        {
+            "src": "/src/assets/img/skills/python.png",
+            "alt": "Python logo",
+            "name": "Python"
+        },
+
+        {
+            "src": "/src/assets/img/skills/java.png",
+            "alt": "Java logo",
+            "name": "Java"
+        },
+
+        {
+            "src": "/src/assets/img/skills/c.png",
+            "alt": "C logo",
+            "name": "C"
+        },
+
+        {
+            "src": "/src/assets/img/skills/javascript.png",
+            "alt": "JavaScript logo",
+            "name": "JavaScript"
+        },
+
+        {
+            "src": "/src/assets/img/skills/html.png",
+            "alt": "HTML logo",
+            "name": "HTML"
+        },
+
+        {
+            "src": "/src/assets/img/skills/css.png",
+            "alt": "CSS logo",
+            "name": "CSS"
+        }
+    ],
+
+    "techs": [
+        {
+            "src": "/src/assets/img/skills/react.png",
+            "alt": "React logo",
+            "name": "React"
+        },
+
+        {
+            "src": "/src/assets/img/skills/vite.png",
+            "alt": "Vite logo",
+            "name": "Vite"
+        }
+    ]
+
+}
