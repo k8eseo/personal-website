@@ -3,25 +3,39 @@
 .container {
     color: var(--primary-text-color);
     margin-top: 250px;
-    z-index: 1;
+    position: relative;
 }
 
-.skills {
+.title {
     font-size: 3rem;
     text-align: center;
     padding-bottom: 1.5em;
 }
 
-.content {
-    margin-top: 25px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 60px;
+.topBlur {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    min-width: 350px;
+    min-height: 350px;
+    top: -500px;
+    left: -15vw;
+    border-radius: 764px;
+    background: var(--blur-color);
+    filter: blur(100px);
+    z-index: -1;
 }
 
-.languages, .technologies {
-    display: flex;
-    justify-content: center;
-    gap: 35px;
+.bottomBlur {
+    position: absolute;
+    width: 70vw;
+    height: 50vw;
+    min-width: 350px;
+    min-height: 250px;
+    top: 0px;
+    left: 60vw;
+    border-radius: 764px;
+    background: var(--blur-color);
+    filter: blur(100px);
+    z-index: -1;
 }

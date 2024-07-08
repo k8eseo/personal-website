@@ -1,13 +1,17 @@
+import ProjectsContent from '../ProjectsContent/ProjectsContent.jsx'
+import { slides } from '../../assets/data/projectData.json'
+
 import styles from './Projects.module.css'
-import ProjectContent from '../ProjectContent/ProjectContent.jsx'
-import {slides} from '../../assets/data/projectData.json'
 
 function Projects() {
     return(
-        <div className={styles.container} id="projects">
+        <section className={styles.container} id="projects">
             <h1 className={styles.projects}>projects i've worked on</h1>
-            <ProjectContent data={slides}/>
-        </div>
+            <ProjectsContent data={slides}/>
+            <div className={styles.topBlur}></div>
+            <div className={styles.middleBlur}></div>
+            <div className={styles.bottomBlur}></div>
+        </section>
     );
 }
 
