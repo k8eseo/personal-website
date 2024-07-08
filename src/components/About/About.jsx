@@ -1,4 +1,5 @@
 import styles from './About.module.css'
+
 import profilePic from '../../assets/img/about/profile.jpg'
 import linkedinLogo from '../../assets/img/about/linkedin.png'
 import emailLogo from '../../assets/img/about/email.png'
@@ -28,9 +29,9 @@ function About() {
                         code develop and come to life! Always interested in learning more.
                 </p>
                 <div className={styles.logos}>
-                    <img src={githubLogo} width="50" onClick={openGithub}></img>
-                    <img src={linkedinLogo} width="50" onClick={openLinkedin}></img>
-                    <img src={emailLogo} width="50" onClick={openEmail}></img>
+                    <img src={githubLogo} alt="Github logo" width="50" onClick={openGithub}></img>
+                    <img src={linkedinLogo} alt="LinkedIn logo" width="50" onClick={openLinkedin}></img>
+                    <img src={emailLogo} alt="Email logo" width="50" onClick={openEmail}></img>
                 </div>
             </div>
             <div className={styles.topBlur}></div>
