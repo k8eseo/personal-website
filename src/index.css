@@ -4,6 +4,8 @@ body {
     background-color: var(--bg-color);
     font-family: var(--font);
     overflow-x: hidden;
+    padding-top: 7rem;
+    min-width: 400px;
 }
 
 html {
