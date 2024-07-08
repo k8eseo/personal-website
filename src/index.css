@@ -14,13 +14,13 @@ html {
 }
 
 #experience {
-    scroll-margin-top: 6vw;
+    scroll-margin-top: 12vh;
 }
 
 #skills {
-    scroll-margin-top: 6.5vw;
+    scroll-margin-top: 20vh;
 }
 
 #projects {
-    scroll-margin-top: 3vw;
+    scroll-margin-top: 13vh;
 }
