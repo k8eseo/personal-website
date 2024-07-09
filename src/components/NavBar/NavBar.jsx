@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import styles from './NavBar.module.css'
 
-import burgerIcon from '../../assets/img/burger.png'
+import burgerIcon from '/img/burger.png'
 
 function NavBar() {
 

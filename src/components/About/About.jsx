@@ -1,9 +1,9 @@
 import styles from './About.module.css'
 
-import profilePic from '../../assets/img/about/profile.jpg'
-import linkedinLogo from '../../assets/img/about/linkedin.png'
-import emailLogo from '../../assets/img/about/email.png'
-import githubLogo from '../../assets/img/about/github.png'
+import profilePic from '/img/about/profile.jpg'
+import linkedinLogo from '/img/about/linkedin.png'
+import emailLogo from '/img/about/email.png'
+import githubLogo from '/img/about/github.png'
 
 function About() {
 

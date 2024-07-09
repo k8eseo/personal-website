@@ -5,7 +5,7 @@
             "title": "Software Development Intern",
             "url": "https://portal.matrixanalytics.co/MATRiX/",
             "date": "Jun 2023 - Aug 2023",
-            "src": "/src/assets/img/experience/matrix.jpeg",
+            "src": "/personal-website/img/experience/matrix.jpeg",
             "alt": "MATRiX ANALYTiCS CORPORATION logo"
         },
 
@@ -14,7 +14,7 @@
             "title": "Director",
             "url": "https://dandyhacks.net/",
             "date": "Dec 2023 - Present",
-            "src": "/src/assets/img/experience/dandyhacks.jpeg",
+            "src": "/personal-website/img/experience/dandyhacks.jpeg",
             "alt": "DandyHacks logo"
         },
 
@@ -23,7 +23,7 @@
             "title": "Vice President",
             "url": "https://ur-csug.org/#/",
             "date": "May 2024 - Present",
-            "src": "/src/assets/img/experience/csug.png",
+            "src": "/personal-website/img/experience/csug.png",
             "alt": "Computer Science Undergraduate Council logo"
         }
     ]

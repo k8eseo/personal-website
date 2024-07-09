@@ -3,7 +3,7 @@
         {
             "title": "Tkinter Application-Building Assist",
             "desc": "Software built to lead the way for inexperienced coders who are looking to build their own applications.",
-            "src": "/src/assets/img/projects/tkinter.png",
+            "src": "/personal-website/img/projects/tkinter.png",
             "alt": "Tkinter widgets",
             "tech": ["Python", "Tkinter"]
         },
@@ -11,7 +11,7 @@
         {
             "title": "Dijkstra's Path Finder",
             "desc": "Optimizes and finds the shortest path of directions from one point to another on large-scale maps, using Dijkstra's algorithm.",
-            "src": "/src/assets/img/projects/dijkstras.png",
+            "src": "/personal-website/img/projects/dijkstras.png",
             "alt": "Dijkstra's algorithm on New York",
             "tech": ["Java"]
         },
@@ -19,7 +19,7 @@
         {
             "title": "Relational Database Model",
             "desc": "Simulation of a large-scale relational database and relational algebra operations for user queries.",
-            "src": "/src/assets/img/projects/database.png",
+            "src": "/personal-website/img/projects/database.png",
             "alt": "Relational database",
             "tech": ["C"]
         },
@@ -27,7 +27,7 @@
         {
             "title": "Logistic Regression Trainer",
             "desc": "Trains and evaluates data sets using a custom logistic regression algorithm, while analyzing and graphing overfitting patterns.",
-            "src": "/src/assets/img/projects/regression.jpeg",
+            "src": "/personal-website/img/projects/regression.jpeg",
             "alt": "Logistic regression",
             "tech": ["Python"]
         },
@@ -35,7 +35,7 @@
         {
             "title": "Personal Website",
             "desc": "This exact website!",
-            "src": "/src/assets/img/projects/website.png",
+            "src": "/personal-website/img/projects/website.png",
             "alt": "Personal website",
             "tech": ["React", "JavaScript", "CSS", "HTML"]
         }
