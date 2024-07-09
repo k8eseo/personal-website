@@ -37,7 +37,7 @@
             "desc": "This exact website!",
             "src": "/src/assets/img/projects/website.png",
             "alt": "Personal website",
-            "tech": ["React.js", "Vite", "CSS", "HTML"]
+            "tech": ["React", "JavaScript", "CSS", "HTML"]
         }
     ]
 }
