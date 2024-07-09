@@ -42,13 +42,6 @@
             "src": "/src/assets/img/skills/react.png",
             "alt": "React logo",
             "name": "React"
-        },
-
-        {
-            "src": "/src/assets/img/skills/vite.png",
-            "alt": "Vite logo",
-            "name": "Vite"
         }
     ]
-
 }
