@@ -69,7 +69,7 @@ nav .burgerMenu {
     align-items: flex-end;
     padding-top: 70px;
     transform: translateX(100%);
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.1s ease-in-out;
 }
 
 .burgerMenu.active {
@@ -87,7 +87,7 @@ nav .burgerMenu a:hover {
     transform: scale(1.03);
 }
 
-@media (max-width: 950px) {
+@media (max-width: 990px) {
     .container {
         display: none;
     }
