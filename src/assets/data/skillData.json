@@ -1,37 +1,37 @@
 {
     "languages": [
         {
-            "src": "/personal-website/img/skills/python.png",
+            "src": "/img/skills/python.png",
             "alt": "Python logo",
             "name": "Python"
         },
 
         {
-            "src": "/personal-website/img/skills/java.png",
+            "src": "/img/skills/java.png",
             "alt": "Java logo",
             "name": "Java"
         },
 
         {
-            "src": "/personal-website/img/skills/c.png",
+            "src": "/img/skills/c.png",
             "alt": "C logo",
             "name": "C"
         },
 
         {
-            "src": "/personal-website/img/skills/javascript.png",
+            "src": "/img/skills/javascript.png",
             "alt": "JavaScript logo",
             "name": "JavaScript"
         },
 
         {
-            "src": "/personal-website/img/skills/html.png",
+            "src": "/img/skills/html.png",
             "alt": "HTML logo",
             "name": "HTML"
         },
 
         {
-            "src": "/personal-website/img/skills/css.png",
+            "src": "/img/skills/css.png",
             "alt": "CSS logo",
             "name": "CSS"
         }
@@ -39,7 +39,7 @@
 
     "techs": [
         {
-            "src": "/personal-website/img/skills/react.png",
+            "src": "/img/skills/react.png",
             "alt": "React logo",
             "name": "React"
         }
