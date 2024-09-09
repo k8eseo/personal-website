@@ -62,4 +62,9 @@ p {
     .card {
         width: 80%;
     }
+
+    .container img {
+        object-fit: cover;
+        height: auto;
+    }
 }
