@@ -27,7 +27,7 @@
         {
             "title": "Logistic Regression Trainer",
             "desc": "Trains and evaluates data sets using a custom logistic regression algorithm, while analyzing and graphing overfitting patterns.",
-            "src": "/img/projects/regression.jpeg",
+            "src": "/img/projects/regression.png",
             "alt": "Logistic regression",
             "tech": ["Python"]
         },

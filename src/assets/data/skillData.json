@@ -19,6 +19,12 @@
         },
 
         {
+            "src": "/img/skills/swift.png",
+            "alt": "Swift logo",
+            "name": "Swift"
+        },
+
+        {
             "src": "/img/skills/javascript.png",
             "alt": "JavaScript logo",
             "name": "JavaScript"
@@ -34,6 +40,12 @@
             "src": "/img/skills/css.png",
             "alt": "CSS logo",
             "name": "CSS"
+        },
+
+        {
+            "src": "/img/skills/r.png",
+            "alt": "R logo",
+            "name": "R"
         }
     ],
 
