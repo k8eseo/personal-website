@@ -5,7 +5,7 @@
             "desc": "Software built to lead the way for inexperienced coders who are looking to build their own applications.",
             "src": "/img/projects/tkinter.png",
             "alt": "Tkinter widgets",
-            "tech": ["Python", "Tkinter"]
+            "skills": ["Python", "Tkinter"]
         },
 
         {
@@ -13,7 +13,7 @@
             "desc": "Optimizes and finds the shortest path of directions from one point to another on large-scale maps, using Dijkstra's algorithm.",
             "src": "/img/projects/dijkstras.png",
             "alt": "Dijkstra's algorithm on New York",
-            "tech": ["Java"]
+            "skills": ["Java"]
         },
 
         {
@@ -21,7 +21,7 @@
             "desc": "Simulation of a large-scale relational database and relational algebra operations for user queries.",
             "src": "/img/projects/database.png",
             "alt": "Relational database",
-            "tech": ["C"]
+            "skills": ["C"]
         },
 
         {
@@ -29,7 +29,7 @@
             "desc": "Trains and evaluates data sets using a custom logistic regression algorithm, while analyzing and graphing overfitting patterns.",
             "src": "/img/projects/regression.png",
             "alt": "Logistic regression",
-            "tech": ["Python"]
+            "skills": ["Python"]
         },
 
         {
@@ -37,7 +37,7 @@
             "desc": "This exact website!",
             "src": "/img/projects/website.png",
             "alt": "Personal website",
-            "tech": ["React", "JavaScript", "CSS", "HTML"]
+            "skills": ["React", "JavaScript", "CSS", "HTML"]
         }
     ]
 }

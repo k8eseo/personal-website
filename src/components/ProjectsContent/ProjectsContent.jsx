@@ -10,8 +10,8 @@ function ProjectsContent({data}) {
                         <h1>{item.title}</h1>
                         <p>{item.desc}</p>
                         <div className={styles.techContainer}>
-                            {item.tech.map((tech, techIndex) => (
-                                <p key={techIndex}>{tech}</p>
+                            {item.skills.map((skill, skillIndex) => (
+                                <p key={skillIndex}>{skill}</p>
                             ))}
                         </div>
                     </div>

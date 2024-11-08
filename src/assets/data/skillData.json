@@ -1,5 +1,5 @@
 {
-    "languages": [
+    "skills": [
         {
             "src": "/img/skills/python.png",
             "alt": "Python logo",
@@ -16,6 +16,12 @@
             "src": "/img/skills/c.png",
             "alt": "C logo",
             "name": "C"
+        },
+
+        {
+            "src": "/img/skills/react.png",
+            "alt": "React logo",
+            "name": "React"
         },
 
         {
@@ -46,14 +52,6 @@
             "src": "/img/skills/r.png",
             "alt": "R logo",
             "name": "R"
-        }
-    ],
-
-    "techs": [
-        {
-            "src": "/img/skills/react.png",
-            "alt": "React logo",
-            "name": "React"
         }
     ]
 }
