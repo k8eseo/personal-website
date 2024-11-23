@@ -10,6 +10,15 @@
         },
 
         {
+            "company": "Girls Who Code",
+            "title": "Volunteer Program Coordinator",
+            "url": "https://www.instagram.com/girlswhocodeuofr/?hl=en",
+            "date": "Oct 2022 - May 2023",
+            "src": "/img/experience/gwc.png",
+            "alt": "Girls Who Code logo"
+        },
+
+        {
             "company": "DandyHacks",
             "title": "Director",
             "url": "https://dandyhacks.net/",
@@ -25,15 +34,6 @@
             "date": "Aug 2024 - Present",
             "src": "/img/experience/csug.png",
             "alt": "Computer Science Undergraduate Council logo"
-        },
-
-        {
-            "company": "Girls Who Code",
-            "title": "Volunteer Program Coordinator",
-            "url": "https://www.instagram.com/girlswhocodeuofr/?hl=en",
-            "date": "Oct 2022 - May 2023",
-            "src": "/img/experience/gwc.png",
-            "alt": "Girls Who Code logo"
         }
     ]
 }
