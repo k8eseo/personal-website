@@ -1,11 +1,19 @@
 {
     "slides": [
         {
-            "title": "Tkinter Application-Building Assist",
-            "desc": "Software built to lead the way for inexperienced coders who are looking to build their own applications.",
+            "title": "Tkinter Application Developer",
+            "desc": "Simplifying Tkinter-based application development for inexperienced coders.",
             "src": "/img/projects/tkinter.png",
             "alt": "Tkinter widgets",
             "skills": ["Python", "Tkinter"]
+        },
+
+        {
+            "title": "Relational Database Model",
+            "desc": "Simulation of a large-scale relational database and analyzing SQL relational commands for user queries.",
+            "src": "/img/projects/database.png",
+            "alt": "Relational database",
+            "skills": ["C"]
         },
 
         {
@@ -17,19 +25,11 @@
         },
 
         {
-            "title": "Relational Database Model",
-            "desc": "Simulation of a large-scale relational database and relational algebra operations for user queries.",
-            "src": "/img/projects/database.png",
-            "alt": "Relational database",
-            "skills": ["C"]
-        },
-
-        {
             "title": "Logistic Regression Trainer",
-            "desc": "Trains and evaluates data sets using a custom logistic regression algorithm, while analyzing and graphing overfitting patterns.",
+            "desc": "Training logistic regression with stochastic gradient descent, visualizing training accuracy based on learning rates and iterations.",
             "src": "/img/projects/regression.png",
             "alt": "Logistic regression",
-            "skills": ["Python"]
+            "skills": ["Python", "MATLAB"]
         },
 
         {
@@ -38,6 +38,14 @@
             "src": "/img/projects/website.png",
             "alt": "Personal website",
             "skills": ["React", "JavaScript", "CSS", "HTML"]
+        },
+
+        {
+            "title": "Molez",
+            "desc": "A Whack-a-mole spin-off mobile game.",
+            "src": "/img/projects/molez.png",
+            "alt": "Molez",
+            "skills": ["Swift"]
         }
     ]
 }
