@@ -1,9 +1,21 @@
 {
     "skills": [
         {
-            "src": "/img/skills/python.png",
-            "alt": "Python logo",
-            "name": "Python"
+            "src": "/img/skills/c.png",
+            "alt": "C logo",
+            "name": "C"
+        },
+
+        {
+            "src": "/img/skills/css.png",
+            "alt": "CSS logo",
+            "name": "CSS"
+        },
+
+        {
+            "src": "/img/skills/html.png",
+            "alt": "HTML logo",
+            "name": "HTML"
         },
 
         {
@@ -13,9 +25,21 @@
         },
 
         {
-            "src": "/img/skills/c.png",
-            "alt": "C logo",
-            "name": "C"
+            "src": "/img/skills/javascript.png",
+            "alt": "JavaScript logo",
+            "name": "JavaScript"
+        },
+
+        {
+            "src": "/img/skills/python.png",
+            "alt": "Python logo",
+            "name": "Python"
+        },
+
+        {
+            "src": "/img/skills/r.png",
+            "alt": "R logo",
+            "name": "R"
         },
 
         {
@@ -28,30 +52,6 @@
             "src": "/img/skills/swift.png",
             "alt": "Swift logo",
             "name": "Swift"
-        },
-
-        {
-            "src": "/img/skills/javascript.png",
-            "alt": "JavaScript logo",
-            "name": "JavaScript"
-        },
-
-        {
-            "src": "/img/skills/html.png",
-            "alt": "HTML logo",
-            "name": "HTML"
-        },
-
-        {
-            "src": "/img/skills/css.png",
-            "alt": "CSS logo",
-            "name": "CSS"
-        },
-
-        {
-            "src": "/img/skills/r.png",
-            "alt": "R logo",
-            "name": "R"
         }
     ]
 }

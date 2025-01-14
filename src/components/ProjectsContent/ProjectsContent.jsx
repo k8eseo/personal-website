@@ -5,7 +5,7 @@ function ProjectsContent({data}) {
         <div className={styles.container}>
             {data.map((item, index) => (
                 <div key={index} className={styles.card}>
-                    <img src={item.src} alt={item.alt} width="550" height="350"></img>
+                    <img src={item.src} alt={item.alt} width="400" height="300"></img>
                     <div className={styles.textContent}>
                         <h1>{item.title}</h1>
                         <p>{item.desc}</p>

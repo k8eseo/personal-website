@@ -134,4 +134,8 @@
         align-items: center;
         text-align: center;
     }
+    
+    .about {
+        font-size: 3vw;
+    }
 }

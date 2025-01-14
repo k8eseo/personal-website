@@ -26,10 +26,26 @@
 
         {
             "title": "Logistic Regression Trainer",
-            "desc": "Training logistic regression with stochastic gradient descent, visualizing training accuracy based on learning rates and iterations.",
+            "desc": "Trained data with logistic regression, developing and implementing a stochastic gradient descent algorithm, alongside a visualization of results.",
             "src": "/img/projects/regression.png",
             "alt": "Logistic regression",
             "skills": ["Python", "MATLAB"]
+        },
+
+        {
+            "title": "Music Searcher",
+            "desc": "Exploration of music and artists using Last.fm's REST API. Read artist biographies, view top songs, and find similar artists.",
+            "src": "/img/projects/musicsearcher.png",
+            "alt": "Molez",
+            "skills": ["Swift", "APIs"]
+        },
+
+        {
+            "title": "Molez",
+            "desc": "A fast-paced Whack-a-mole mobile game, complete with extra time power-ups.",
+            "src": "/img/projects/molez.png",
+            "alt": "Molez",
+            "skills": ["Swift"]
         },
 
         {
@@ -38,14 +54,6 @@
             "src": "/img/projects/website.png",
             "alt": "Personal website",
             "skills": ["React", "JavaScript", "CSS", "HTML"]
-        },
-
-        {
-            "title": "Molez",
-            "desc": "A Whack-a-mole spin-off mobile game.",
-            "src": "/img/projects/molez.png",
-            "alt": "Molez",
-            "skills": ["Swift"]
         }
     ]
 }
