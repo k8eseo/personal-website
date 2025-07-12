@@ -1,6 +1,15 @@
 {
     "experiences": [
         {
+            "company": "Jones Lang LaSalle",
+            "title": "Software Development Engineer Intern",
+            "url": "https://www.jll.com/en-us/",
+            "date": "Jun 2025 - Present",
+            "src": "/img/experience/jll.png",
+            "alt": "JLL logo"
+        },
+
+        {
             "company": "MATRiX ANALYTiCS CORPORATION",
             "title": "Software Developer Intern",
             "url": "https://portal.matrixanalytics.co/MATRiX/",
@@ -10,19 +19,10 @@
         },
 
         {
-            "company": "Girls Who Code",
-            "title": "Volunteer Program Coordinator",
-            "url": "https://www.instagram.com/girlswhocodeuofr/?hl=en",
-            "date": "Oct 2022 - May 2023",
-            "src": "/img/experience/gwc.png",
-            "alt": "Girls Who Code logo"
-        },
-
-        {
             "company": "DandyHacks",
             "title": "Director",
             "url": "https://dandyhacks.net/",
-            "date": "Dec 2023 - Present",
+            "date": "Dec 2023 - Apr 2025",
             "src": "/img/experience/dandyhacks.jpeg",
             "alt": "DandyHacks logo"
         },
@@ -30,10 +30,19 @@
         {
             "company": "Computer Science Undergraduate Council",
             "title": "Vice President",
-            "url": "https://ur-csug.org/#/",
-            "date": "Aug 2024 - Present",
+            "url": "https://www.instagram.com/ur.csug/",
+            "date": "Aug 2024 - Jun 2025",
             "src": "/img/experience/csug.png",
             "alt": "Computer Science Undergraduate Council logo"
+        },
+
+        {
+            "company": "Girls Who Code",
+            "title": "Volunteer Program Coordinator",
+            "url": "https://www.instagram.com/girlswhocodeuofr/?hl=en",
+            "date": "Oct 2022 - May 2023",
+            "src": "/img/experience/gwc.png",
+            "alt": "Girls Who Code logo"
         }
     ]
 }

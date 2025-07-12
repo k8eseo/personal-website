@@ -22,14 +22,14 @@
 
 .title {
     margin: 0;
-    font-size: 6em;
-    margin-bottom: 33px;
+    font-size: 5em;
+    margin-bottom: 10px;
     animation: transitionIn 0.4s ease-in-out both;
 }
 
 .about {
-    font-size: 1.5em;
-    padding-bottom: 35px;
+    font-size: 1.4em;
+    margin-bottom: 50px;
     animation: transitionIn 0.4s ease-in-out both;
     animation-delay: 0.2s;
     color: var(--secondary-text-color);
@@ -37,17 +37,17 @@
 
 .logos {
     display: flex;
-    flex-direction: space-between;
     gap: 25px;
     animation: transitionIn 0.4s ease-in-out both;
     animation-delay: 0.4s;
-}
 
-.logos img:hover {
-    cursor: pointer;
-    transform: scale(1.1);
-    transition: transform 0.2s ease-in-out;
-    filter: brightness(80%);
+    img:hover {
+        cursor: pointer;
+        transform: scale(1.05);
+        transition: transform 0.1s ease-in-out;
+        filter: brightness(85%);
+    }
+
 }
 
 .picture {
@@ -55,11 +55,6 @@
     border-radius: 50%;
     box-shadow: 5px 5px 5px var(--shadow-color);
     z-index: 1;
-
-    animation-name: floating;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in-out;
 }
 
 .topBlur {

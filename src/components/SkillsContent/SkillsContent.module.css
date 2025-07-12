@@ -17,8 +17,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 125px;
-    width: 125px;
+    height: 100px;
+    width: 100px;
     padding: 5px;
     z-index: 1;
     background-color: var(--card-color);
@@ -38,7 +38,7 @@
 }
 
 .container h2 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     color: var(--secondary-text-color);
     margin-top: 15px;
 }
@@ -47,6 +47,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 @media (max-width: 700px) {

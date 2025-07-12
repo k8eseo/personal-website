@@ -1,13 +1,19 @@
 {
     "slides": [
         {
+            "title": "Record Store Database",
+            "desc": "Simulation of a inventory database, complete with user authentication and administrative restrictions.",
+            "src": "/img/projects/recordstore.png",
+            "alt": "Record store database",
+            "skills": ["MySQL", "SQL", "PHP", "HTML", "CSS", "JavaScript"]
+        },
+        {
             "title": "Tkinter Application Developer",
             "desc": "Simplifying Tkinter-based application development for inexperienced coders.",
             "src": "/img/projects/tkinter.png",
             "alt": "Tkinter widgets",
             "skills": ["Python", "Tkinter"]
         },
-
         {
             "title": "Relational Database Model",
             "desc": "Simulation of a large-scale relational database and analyzing SQL relational commands for user queries.",
@@ -15,7 +21,6 @@
             "alt": "Relational database",
             "skills": ["C"]
         },
-
         {
             "title": "Dijkstra's Path Finder",
             "desc": "Optimizes and finds the shortest path of directions from one point to another on large-scale maps, using Dijkstra's algorithm.",
@@ -23,7 +28,6 @@
             "alt": "Dijkstra's algorithm on New York",
             "skills": ["Java"]
         },
-
         {
             "title": "Logistic Regression Trainer",
             "desc": "Trained data with logistic regression, developing and implementing a stochastic gradient descent algorithm, alongside a visualization of results.",
@@ -39,7 +43,6 @@
             "alt": "Molez",
             "skills": ["Swift", "APIs"]
         },
-
         {
             "title": "Molez",
             "desc": "A fast-paced Whack-a-mole mobile game, complete with extra time power-ups.",
@@ -47,7 +50,6 @@
             "alt": "Molez",
             "skills": ["Swift"]
         },
-
         {
             "title": "Personal Website",
             "desc": "This exact website!",

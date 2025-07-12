@@ -25,7 +25,7 @@ function About() {
             <div className={styles.content}>
                 <h1 className={styles.title}>hi, i'm katie.</h1>
                 <p className={styles.about}>
-                    I'm from Aldie, VA, and I'm a third-year computer science student at the University of Rochester. I love watching
+                    I'm a fourth-year Computer Science student at the University of Rochester. I'm from Aldie, VA, and I love watching
                         code develop and come to life! Always interested in learning more.
                 </p>
                 <div className={styles.logos}>

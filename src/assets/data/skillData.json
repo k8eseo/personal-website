@@ -1,6 +1,12 @@
 {
     "skills": [
         {
+            "src": "/img/skills/ado.png",
+            "alt": "ADO logo",
+            "name": "Azure DevOps"
+        },
+
+        {
             "src": "/img/skills/c.png",
             "alt": "C logo",
             "name": "C"
@@ -49,9 +55,27 @@
         },
 
         {
+            "src": "/img/skills/sql.png",
+            "alt": "SQL logo",
+            "name": "SQL"
+        },
+
+        {
             "src": "/img/skills/swift.png",
             "alt": "Swift logo",
             "name": "Swift"
+        },
+
+        {
+            "src": "/img/skills/ts.png",
+            "alt": "TypeScript logo",
+            "name": "TypeScript"
+        },
+
+        {
+            "src": "/img/skills/vue.png",
+            "alt": "Vue logo",
+            "name": "Vue"
         }
     ]
 }
