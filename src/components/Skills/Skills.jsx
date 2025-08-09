@@ -8,7 +8,7 @@ function Skills() {
 
     return(
         <section className={styles.container} id="skills">
-            <h1 className={styles.title}>languages & technologies</h1>
+            <h1 className={styles.title}>skills</h1>
             <div className={styles.content}>
                 <SkillsContent skills={skills} />
             </div>

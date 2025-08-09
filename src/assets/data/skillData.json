@@ -19,6 +19,18 @@
         },
 
         {
+            "src": "/img/skills/git.png",
+            "alt": "Git logo",
+            "name": "Git"
+        },
+
+        {
+            "src": "/img/skills/github.png",
+            "alt": "GitHub logo",
+            "name": "GitHub"
+        },
+
+        {
             "src": "/img/skills/html.png",
             "alt": "HTML logo",
             "name": "HTML"
@@ -37,21 +49,28 @@
         },
 
         {
+            "src": "/img/skills/postman.png",
+            "alt": "Postman logo",
+            "name": "Postman"
+        },
+
+
+        {
             "src": "/img/skills/python.png",
             "alt": "Python logo",
             "name": "Python"
         },
 
         {
-            "src": "/img/skills/r.png",
-            "alt": "R logo",
-            "name": "R"
-        },
-
-        {
             "src": "/img/skills/react.png",
             "alt": "React logo",
             "name": "React"
+        },
+
+        {
+            "src": "/img/skills/api.png",
+            "alt": "REST API logo",
+            "name": "REST APIs"
         },
 
         {
