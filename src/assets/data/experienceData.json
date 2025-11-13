@@ -2,7 +2,7 @@
     "experiences": [
         {
             "company": "Jones Lang LaSalle",
-            "title": "Software Development Engineer Intern",
+            "title": "Software Engineer Intern",
             "url": "https://www.jll.com/en-us/",
             "date": "Jun 2025 - Aug 2025",
             "src": "/img/experience/jll.png",
@@ -10,8 +10,8 @@
         },
 
         {
-            "company": "MATRiX ANALYTiCS CORPORATION",
-            "title": "Software Developer Intern",
+            "company": "Matrix Analytics Corporation",
+            "title": "Software Engineer Intern",
             "url": "https://portal.matrixanalytics.co/MATRiX/",
             "date": "Jun 2023 - Aug 2023",
             "src": "/img/experience/matrix.jpeg",
